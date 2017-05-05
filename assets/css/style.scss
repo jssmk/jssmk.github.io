@@ -10,3 +10,14 @@
     background-color: #ffd42a;
     background-image: none;
 }
+
+
+body {
+    background-image: url('../../media/images/sample_image.png');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
+html, body {
+    height: 100%;
+}
