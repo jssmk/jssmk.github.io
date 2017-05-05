@@ -6,7 +6,7 @@
 .page-header {
     color: #ff00ff;
     text-align: center;
-    text-shadow: -2px 0 white, 0 2px white, 2px 0 white, 0 -2px white;
+    text-shadow: -2px 2px white, 2px 2px white, 2px -2px white, -2px -2px white;
     background-color: #ffd42a;
     background-image: none;
 }
@@ -23,3 +23,7 @@ html, body {
 }
 
 @media screen and (max-width: 42em) { .main-content { background-color: #ffffffDD;} }
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6{
+    color: #ff00ff;
+}
