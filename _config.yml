@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: testisivuni
-excerpt: alateksti
+tagline: alateksti
+BASE_PATH : http://jssmk.github.io
