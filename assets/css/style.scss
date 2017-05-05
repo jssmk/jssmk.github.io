@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+    color: #ff00ff;
+    text-align: center;
+    text-shadow: -2px 0 white, 0 2px white, 2px 0 white, 0 -2px white;
+    background-color: #ffd42a;
+    background-image: none;
+}
